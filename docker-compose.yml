@@ -35,5 +35,5 @@ services:
       PS_DOMAIN: localhost:80
       PS_SSL_ENABLED: 1
       PS_SSL_ENABLED_EVERYWHERE: 1
-#w    volumes:
-#      - ./webshop:/var/www/html
+    volumes:
+      - ./webshop:/var/www/html
