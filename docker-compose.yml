@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+  db:
+    image: przemoc31/test-prestashop:mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: cmylampy
+    volumes:
+      - ./db-dump:/var/lib/mysql
+    restart: always
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - 8080:80
+    env_file:
+      - .env
+    environment:
+      PMA_HOST: db
+
+  prestashop:
+    image: przemoc31/test-prestashop:1
+    depends_on:
+      - db
+    ports:
+      - 80:80
+    environment:
+      PS_INSTALL_AUTO: 0
+      PS_ERASE_DB: 0
+      DB_SERVER: db
+      DB_USER: root
+      DB_PASSWD: root
+      DB_NAME: cmylampy
+      PS_DEV_MODE: 0
+      PS_DOMAIN: localhost:80
+      PS_SSL_ENABLED: 1
+      PS_SSL_ENABLED_EVERYWHERE: 1
+#w    volumes:
+#      - ./webshop:/var/www/html

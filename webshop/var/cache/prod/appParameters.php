@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'db',
+    'database_port' => '',
+    'database_name' => 'cmylampy',
+    'database_user' => 'root',
+    'database_password' => 'root',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '625IMDddTs9Ge1miQVXCotVRLoK7tHIw6neyiqkdrA3K58fjq98pwVUjHUXcDkVE',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-11-04',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'y9K8M8WIzUWWJTeA4bVy3cqTHMh04XTUK05jO8x35uYdS2YGtcPt0egAK5rL4XLJ',
+    'cookie_iv' => 'dSgGO0fT4CkZR1cH7BQMAK0CcnvPkATv',
+    'new_cookie_key' => 'def00000da228b551a281e9f97cf9d1410b116fbb390c2995c122229a07d7bc0d2a80840531812db482f03b57ebfdbc1e648fdf1da0d5fc4cbc6ade78b7850a83aab0770',
+  ),
+);
