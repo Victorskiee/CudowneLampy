@@ -19,7 +19,7 @@ services:
       PMA_HOST: db
 
   prestashop:
-    image: prestashop/prestashop:1.7.7.8
+    image: webshop:beta
     depends_on:
       - db
     ports:
@@ -35,5 +35,5 @@ services:
       PS_DOMAIN: localhost:80
       PS_SSL_ENABLED: 1
       PS_SSL_ENABLED_EVERYWHERE: 1
-    volumes:
-      - ./webshop:/var/www/html
+    #volumes:
+      #- ./webshop:/var/www/html
