@@ -24,6 +24,7 @@ services:
       - db
     ports:
       - 80:80
+      - 443:443
     environment:
       PS_INSTALL_AUTO: 0
       PS_ERASE_DB: 0
@@ -35,5 +36,6 @@ services:
       PS_DOMAIN: localhost:80
       PS_SSL_ENABLED: 1
       PS_SSL_ENABLED_EVERYWHERE: 1
-    #volumes:
+    volumes:
       #- ./webshop:/var/www/html
+      - ./ssl/:/etc/apache2/sites-available

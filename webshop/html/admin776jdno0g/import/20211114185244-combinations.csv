@@ -1,0 +1,868 @@
+&id&tmp_id&attribute_ntp&color&amount
+0&3&1&Color: color: 0&Wybierz kolor: 0&0
+1&3&2&Color: color: 0&biały MD1288-3W (AZ1065): 0&4
+2&3&3&Color: color: 0&czarny MD1288-3BL (AZ1064)  +30 zł: 0&6
+3&3&4&Color: color: 0&czerwony MD1288-3RED (AZ1066)  +30 zł: 0&10
+4&4&1&Color: color: 0&Wybierz kolor: 0&0
+5&4&2&Color: color: 0&dymiony 8380: 0&3
+6&4&3&Color: color: 0&złoty 8381: 0&10
+7&8&1&Color: color: 0&Wybierz kolor: 0&0
+8&8&2&Color: color: 0&300 Czarny: 0&2
+9&8&3&Color: color: 0&301 Srebrny: 0&6
+10&9&1&Color: color: 0&Wybierz kolor: 0&0
+11&9&2&Color: color: 0&Biały 8801: 0&10
+12&9&3&Color: color: 0&Biały z kablem czerwonym 6342 : 0&6
+13&9&4&Color: color: 0&Czarny 6344: 0&7
+14&17&1&Color: color: 0&Wybierz kolor: 0&0
+15&17&2&Color: color: 0&bursztynowy PND-112038-1-BRO+AMB: 0&10
+16&17&3&Color: color: 0&dymiony PND-112038-1-BRO+SG: 0&9
+17&18&1&Color: color: 0&Wybierz kolor: 0&0
+18&18&2&Color: color: 0&bursztynowy PND-112038-3-BRO+AMB: 0&10
+19&18&3&Color: color: 0&dymiony PND-112038-3-BRO+SG: 0&3
+20&19&1&Color: color: 0&Wybierz kolor: 0&0
+21&19&2&Color: color: 0&bursztynowy PND-112038-3A-BRO+AMB: 0&9
+22&19&3&Color: color: 0&dymiony PND-112038-3A-BRO+SG: 0&10
+23&26&1&Color: color: 0&Wybierz kolor: 0&0
+24&26&2&Color: color: 0&4843 czarny wnętrze białe: 0&2
+25&26&3&Color: color: 0&4844 czarny wnętrze złote : 0&2
+26&27&1&Color: color: 0&Wybierz kolor: 0&0
+27&27&2&Color: color: 0&Concrete 5531: 0&2
+28&27&3&Color: color: 0&Graphite 5530: 0&1
+29&27&4&Color: color: 0&White 5528: 0&9
+30&28&1&Color: color: 0&Wybierz kolor: 0&0
+31&28&2&Color: color: 0&biały AZ3129: 0&5
+32&28&3&Color: color: 0&czarny AZ3128: 0&8
+33&28&4&Color: color: 0&szampański AZ3130  +20 zł: 0&2
+34&29&1&Color: color: 0&Wybierz kolor: 0&0
+35&29&2&Color: color: 0&biały AZ3403: 0&8
+36&29&3&Color: color: 0&czarny AZ3402: 0&1
+37&29&4&Color: color: 0&szampański AZ3404  +40 zł: 0&1
+38&30&1&Color: color: 0&Wybierz kolor: 0&0
+39&30&2&Color: color: 0&biały AZ3406: 0&9
+40&30&3&Color: color: 0&czarny AZ3405: 0&1
+41&30&4&Color: color: 0&szampański AZ3407  +50 zł: 0&7
+42&32&1&Color: color: 0&Wybierz kolor: 0&0
+43&32&2&Color: color: 0&biały MA01986CA-00101: 0&9
+44&32&3&Color: color: 0&chrom MA01986C-001-01  +254 zł: 0&5
+45&32&4&Color: color: 0&satyna MA01986CF-00101  +254 zł: 0&2
+46&37&1&Color: color: 0&Wybierz kolor: 0&0
+47&37&2&Color: color: 0&biały AZ3354: 0&4
+48&37&3&Color: color: 0&czarny AZ3353: 0&5
+49&40&1&Color: color: 0&Wybierz kolor: 0&0
+50&40&2&Color: color: 0&czarny AZ3170: 0&6
+51&40&3&Color: color: 0&złoty AZ3171  +30 zł: 0&3
+52&54&1&Color: color: 0&Wybierz kolor: 0&0
+53&54&2&Color: color: 0&biały: 0&4
+54&54&3&Color: color: 0&czarny: 0&2
+55&54&4&Color: color: 0&czerwony: 0&3
+56&57&1&Color: color: 0&Wybierz kolor: 0&0
+57&57&2&Color: color: 0&Biały 6640: 0&3
+58&57&3&Color: color: 0&Czarny 6641  +10 zł: 0&10
+59&68&1&Color: color: 0&Wybierz kolor: 0&0
+60&68&2&Color: color: 0&beżowy AZ2406: 0&5
+61&68&3&Color: color: 0&szary AZ2405: 0&8
+62&75&1&Color: color: 0&Wybierz kolor: 0&0
+63&75&2&Color: color: 0&biały MLP5445: 0&1
+64&75&3&Color: color: 0&czarny MLP5458: 0&8
+65&91&1&Color: color: 0&Wybierz kolor: 0&0
+66&91&2&Color: color: 0&biały 8268: 0&10
+67&91&3&Color: color: 0&czarny 8263: 0&3
+68&92&1&Color: color: 0&Wybierz kolor: 0&0
+69&92&2&Color: color: 0&biały 8270: 0&3
+70&92&3&Color: color: 0&czarny 8264: 0&3
+71&93&1&Color: color: 0&Wybierz kolor: 0&0
+72&93&2&Color: color: 0&biały 8272: 0&1
+73&93&3&Color: color: 0&czarny 8266: 0&1
+74&94&1&Color: color: 0&Wybierz kolor: 0&0
+75&94&2&Color: color: 0&biały 8267: 0&6
+76&94&3&Color: color: 0&czarny 8262: 0&1
+77&112&1&Color: color: 0&Wybierz kolor: 0&0
+78&112&2&Color: color: 0&biały 7791: 0&2
+79&112&3&Color: color: 0&czarny 7790: 0&10
+80&114&1&Color: color: 0&Wybierz kolor: 0&0
+81&114&2&Color: color: 0&Biały 6492: 0&1
+82&114&3&Color: color: 0&Czarny 6505: 0&1
+83&114&4&Color: color: 0&Grafit 6498: 0&9
+84&118&1&Color: color: 0&Wybierz kolor: 0&0
+85&118&2&Color: color: 0&biały MLP6273: 0&2
+86&118&3&Color: color: 0&czarny MLP6277: 0&4
+87&119&1&Color: color: 0&Wybierz kolor: 0&0
+88&119&2&Color: color: 0&biały MLP5405: 0&5
+89&119&3&Color: color: 0&czarny MLP5400: 0&5
+90&120&1&Color: color: 0&Wybierz kolor: 0&0
+91&120&2&Color: color: 0&biały MLP6281: 0&10
+92&120&3&Color: color: 0&czarny MLP6285: 0&2
+93&126&1&Color: color: 0&Wybierz kolor: 0&0
+94&126&2&Color: color: 0&biały: 0&2
+95&126&3&Color: color: 0&czarny: 0&7
+96&127&1&Color: color: 0&Wybierz kolor: 0&0
+97&127&2&Color: color: 0&biały: 0&6
+98&127&3&Color: color: 0&czarny: 0&6
+99&128&1&Color: color: 0&Wybierz kolor: 0&0
+100&128&2&Color: color: 0&biały: 0&7
+101&128&3&Color: color: 0&czarny: 0&5
+102&129&1&Color: color: 0&Wybierz kolor: 0&0
+103&129&2&Color: color: 0&biały: 0&4
+104&129&3&Color: color: 0&czarny: 0&6
+105&139&1&Color: color: 0&Wybierz kolor: 0&0
+106&139&2&Color: color: 0&biały: 0&9
+107&139&3&Color: color: 0&czarny: 0&4
+108&140&1&Color: color: 0&Wybierz kolor: 0&0
+109&140&2&Color: color: 0&biały: 0&8
+110&140&3&Color: color: 0&czarny: 0&5
+111&141&1&Color: color: 0&Wybierz kolor: 0&0
+112&141&2&Color: color: 0&biały: 0&4
+113&141&3&Color: color: 0&czarny: 0&1
+114&142&1&Color: color: 0&Wybierz kolor: 0&0
+115&142&2&Color: color: 0&biały: 0&4
+116&142&3&Color: color: 0&czarny: 0&10
+117&163&1&Color: color: 0&Wybierz kolor: 0&0
+118&163&2&Color: color: 0&biały 7993: 0&10
+119&163&3&Color: color: 0&czarny 7994: 0&2
+120&163&4&Color: color: 0&mosiądz 7995  +64 zł: 0&7
+121&164&1&Color: color: 0&Wybierz kolor: 0&0
+122&164&2&Color: color: 0&biały 8073: 0&3
+123&164&3&Color: color: 0&czarny 8072: 0&2
+124&164&4&Color: color: 0&mosiądz 8074  +60 zł: 0&8
+125&168&1&Color: color: 0&Wybierz kolor: 0&0
+126&168&2&Color: color: 0&biały 8048: 0&5
+127&168&3&Color: color: 0&czarny 8047: 0&9
+128&168&4&Color: color: 0&mosiądz 8308  +40 zł: 0&9
+129&170&1&Color: color: 0&Wybierz kolor: 0&0
+130&170&2&Color: color: 0&biały 8271: 0&4
+131&170&3&Color: color: 0&czarny 8265: 0&4
+132&176&1&Color: color: 0&Wybierz kolor: 0&0
+133&176&2&Color: color: 0&biały K-4196: 0&3
+134&176&3&Color: color: 0&czarny K-4236: 0&2
+135&177&1&Color: color: 0&Wybierz kolor: 0&0
+136&177&2&Color: color: 0&biały K-4197: 0&1
+137&177&3&Color: color: 0&czarny K-4237: 0&3
+138&178&1&Color: color: 0&Wybierz kolor: 0&0
+139&178&2&Color: color: 0&biały K-4206: 0&4
+140&178&3&Color: color: 0&czarny K-4246: 0&7
+141&179&1&Color: color: 0&Wybierz kolor: 0&0
+142&179&2&Color: color: 0&biały K-4207: 0&7
+143&179&3&Color: color: 0&czarny K-4247: 0&4
+144&182&1&Color: color: 0&Wybierz kolor: 0&0
+145&182&2&Color: color: 0&chrom: 0&6
+146&182&3&Color: color: 0&złoty szampański  +27 zł: 0&1
+147&183&1&Color: color: 0&Wybierz kolor: 0&0
+148&183&2&Color: color: 0&biały: 0&1
+149&183&3&Color: color: 0&chrom  +6 zł: 0&3
+150&183&4&Color: color: 0&czarny: 0&10
+151&191&1&Color: color: 0&Wybierz kolor: 0&0
+152&191&2&Color: color: 0&biały: 0&1
+153&191&3&Color: color: 0&czarny: 0&7
+154&205&1&Color: color: 0&Wybierz kolor: 0&0
+155&205&2&Color: color: 0&biały MLP8961: 0&8
+156&205&3&Color: color: 0&czarny MLP8966: 0&7
+157&211&1&Color: color: 0&Wybierz rodzaj abażuru: 0&5
+158&211&2&Color: color: 0&owalny AZ2419/2421: 0&9
+159&211&3&Color: color: 0&prostokątny AZ2419/2420: 0&8
+160&212&1&Color: color: 0&Wybierz rodzaj abażura: 0&9
+161&212&2&Color: color: 0&owalny AZ2418/2421: 0&4
+162&212&3&Color: color: 0&prostokątny AZ2418/2420: 0&6
+163&213&1&Color: color: 0&Wybierz kolor: 0&0
+164&213&2&Color: color: 0&dymiony 9154: 0&3
+165&213&3&Color: color: 0&złoty 9155  +10 zł: 0&10
+166&217&1&Color: color: 0&Wybierz kolor: 0&0
+167&217&2&Color: color: 0&biały AZ2853: 0&2
+168&217&3&Color: color: 0&czarny AZ2852: 0&9
+169&218&1&Color: color: 0&Wybierz kolor: 0&0
+170&218&2&Color: color: 0&biały: 0&8
+171&218&3&Color: color: 0&czarny: 0&9
+172&218&4&Color: color: 0&drewniany  +60 zł: 0&10
+173&219&1&Color: color: 0&Wybierz kolor: 0&0
+174&219&2&Color: color: 0&biały: 0&8
+175&219&3&Color: color: 0&czarny: 0&5
+176&219&4&Color: color: 0&drewniany  +60 zł: 0&8
+177&226&1&Color: color: 0&Wybierz kolor: 0&0
+178&226&2&Color: color: 0&biały: 0&5
+179&226&3&Color: color: 0&czarny: 0&2
+180&232&1&Color: color: 0&Wybierz barwę światła: 0&3
+181&232&2&Color: color: 0&3000K: 0&5
+182&232&3&Color: color: 0&4000K: 0&4
+183&250&1&Color: color: 0&Wybierz kolor: 0&0
+184&250&2&Color: color: 0&biały 667: 0&5
+185&250&3&Color: color: 0&szary 668: 0&2
+186&261&1&Color: color: 0&Wybierz kolor: 0&0
+187&261&2&Color: color: 0&biały MLP8965: 0&3
+188&261&3&Color: color: 0&czarny MLP8970: 0&9
+189&262&1&Color: color: 0&Wybierz kolor: 0&0
+190&262&2&Color: color: 0&biało złoty 5059: 0&8
+191&262&3&Color: color: 0&czarno złoty 5058: 0&2
+192&263&1&Color: color: 0&Wybierz kolor: 0&0
+193&263&2&Color: color: 0&czarny satynowy: 0&5
+194&263&3&Color: color: 0&mosiądz miodowy  +13 zł: 0&10
+195&275&1&Color: color: 0&Wybierz kolor: 0&0
+196&275&2&Color: color: 0&Ecru 8982: 0&6
+197&275&3&Color: color: 0&Szary 9301  +10 zł: 0&5
+198&290&1&Color: color: 0&Wybierz kolor: 0&0
+199&290&2&Color: color: 0&biały AZ2917: 0&10
+200&290&3&Color: color: 0&czarny AZ2916: 0&7
+201&292&1&Color: color: 0&Wybierz kolor: 0&0
+202&292&2&Color: color: 0&biały MLP5469: 0&7
+203&292&3&Color: color: 0&czarny MLP5474: 0&6
+204&301&1&Color: color: 0&Wybierz kolor: 0&0
+205&301&2&Color: color: 0&podstawa czarna, klosz bursztynowy: 0&1
+206&301&3&Color: color: 0&podstawa czarna, klosz dymiony: 0&10
+207&301&4&Color: color: 0&podstawa mosiężna, klosz bursztynowy  +18 zł: 0&5
+208&301&5&Color: color: 0&podstawa mosiężna, klosz dymiony  +18 zł: 0&9
+209&301&6&Color: color: 0&podstawa satynowa, klosz dymiony  +8 zł: 0&9
+210&304&1&Color: color: 0&Wybierz kolor: 0&0
+211&304&2&Color: color: 0&biały 5056: 0&5
+212&304&3&Color: color: 0&czarny 5054: 0&10
+213&308&1&Color: color: 0&Wybierz kolor: 0&0
+214&308&2&Color: color: 0&biały MLP5447: 0&3
+215&308&3&Color: color: 0&czarny MLP5460: 0&4
+216&309&1&Color: color: 0&Wybierz kolor: 0&0
+217&309&2&Color: color: 0&biały MLP6105: 0&3
+218&309&3&Color: color: 0&czarny MLP6103: 0&3
+219&312&1&Color: color: 0&Wybierz kolor: 0&0
+220&312&2&Color: color: 0&biały MLP5506: 0&1
+221&312&3&Color: color: 0&czarny MLP5515: 0&5
+222&326&1&Color: color: 0&Wybierz kolor: 0&0
+223&326&2&Color: color: 0&biały ML4741: 0&2
+224&326&3&Color: color: 0&czarny ML4742: 0&8
+225&330&1&Color: color: 0&Wybierz kolor: 0&0
+226&330&2&Color: color: 0&chrom: 0&7
+227&330&3&Color: color: 0&złoty szampański  +27 zł: 0&2
+228&343&1&Color: color: 0&Wybierz kolor: 0&0
+229&343&2&Color: color: 0&biały AZ2853: 0&8
+230&343&3&Color: color: 0&czarny AZ2852: 0&4
+231&344&1&Color: color: 0&Wybierz kolor: 0&0
+232&344&2&Color: color: 0&biały: 0&8
+233&344&3&Color: color: 0&czarny: 0&4
+234&344&4&Color: color: 0&drewniany  +60 zł: 0&5
+235&345&1&Color: color: 0&Wybierz kolor: 0&0
+236&345&2&Color: color: 0&biały: 0&7
+237&345&3&Color: color: 0&czarny: 0&1
+238&345&4&Color: color: 0&drewniany  +60 zł: 0&5
+239&351&1&Color: color: 0&Wybierz barwę światła: 0&3
+240&351&2&Color: color: 0&3000K: 0&9
+241&351&3&Color: color: 0&4000K: 0&7
+242&364&1&Color: color: 0&Wybierz kolor: 0&0
+243&364&2&Color: color: 0&biały ML6349: 0&7
+244&364&3&Color: color: 0&czarny ML63500: 0&10
+245&365&1&Color: color: 0&Wybierz kolor: 0&0
+246&365&2&Color: color: 0&biały ML6351: 0&1
+247&365&3&Color: color: 0&czarny ML6352: 0&9
+248&366&1&Color: color: 0&Wybierz kolor: 0&0
+249&366&2&Color: color: 0&biały ML6353: 0&1
+250&366&3&Color: color: 0&czarny ML6354: 0&2
+251&371&1&Color: color: 0&Wybierz kolor: 0&0
+252&371&2&Color: color: 0&biały: 0&2
+253&371&3&Color: color: 0&czarno-złoty: 0&2
+254&374&1&Color: color: 0&Wybierz kolor: 0&0
+255&374&2&Color: color: 0&biały: 0&3
+256&374&3&Color: color: 0&czarny: 0&10
+257&376&1&Color: color: 0&Wybierz kolor: 0&0
+258&376&2&Color: color: 0&brązowy 99466: 0&5
+259&376&3&Color: color: 0&brązowy rustykalny 99353: 0&6
+260&385&1&Color: color: 0&Wybierz kolor: 0&0
+261&385&2&Color: color: 0&Aluminium szczotkowane  +47 zł: 0&2
+262&385&3&Color: color: 0&Mosiądz szczotkowany: 0&2
+263&387&1&Color: color: 0&Wybierz kolor: 0&0
+264&387&2&Color: color: 0&biały AZ2798: 0&3
+265&387&3&Color: color: 0&czarny AZ2954: 0&6
+266&391&1&Color: color: 0&Wybierz kolor: 0&0
+267&391&2&Color: color: 0&biały AZ2998: 0&7
+268&391&3&Color: color: 0&czarny AZ2997: 0&3
+269&392&1&Color: color: 0&Wybierz kolor: 0&0
+270&392&2&Color: color: 0&biały AZ2199: 0&7
+271&392&3&Color: color: 0&czarny AZ2198: 0&2
+272&395&1&Color: color: 0&Wybierz kolor: 0&0
+273&395&2&Color: color: 0&biały: 0&4
+274&395&3&Color: color: 0&ciemny szary: 0&1
+275&396&1&Color: color: 0&Wybierz kolor: 0&0
+276&396&2&Color: color: 0&biały AZ2179: 0&2
+277&396&3&Color: color: 0&ciemny szary AZ2180: 0&10
+278&399&1&Color: color: 0&Wybierz kolor oraz barwę światła: 0&7
+279&399&2&Color: color: 0&biały 3000K AZ2960: 0&8
+280&399&3&Color: color: 0&biały 4000K AZ2962: 0&8
+281&399&4&Color: color: 0&czarny 3000K AZ2959: 0&6
+282&399&5&Color: color: 0&czarny 4000K AZ2961: 0&6
+283&400&1&Color: color: 0&Wybierz kolor: 0&0
+284&400&2&Color: color: 0&aluminium szczotkowane: 0&10
+285&400&3&Color: color: 0&mosiądz szczotkowany  +1 zł: 0&9
+286&405&1&Color: color: 0&Wybierz kolor: 0&0
+287&405&2&Color: color: 0&czarny AL 7121-1 black: 0&7
+288&405&3&Color: color: 0&srebrny AL 7121-1 silver  200 zł: 0&2
+289&423&1&Color: color: 0&Wybierz kolor: 0&0
+290&423&2&Color: color: 0&biały MLP4682: 0&1
+291&423&3&Color: color: 0&czarny MLP4700: 0&10
+292&423&4&Color: color: 0&szary MLP4691: 0&2
+293&432&1&Color: color: 0&Wybierz kolor: 0&0
+294&432&2&Color: color: 0&biały: 0&4
+295&432&3&Color: color: 0&czarny: 0&6
+296&433&1&Color: color: 0&Wybierz kolor: 0&0
+297&433&2&Color: color: 0&czarny satynowy: 0&3
+298&433&3&Color: color: 0&mosiądz miodowy  +24 zł: 0&7
+299&443&1&Color: color: 0&Wybierz kolor: 0&0
+300&443&2&Color: color: 0&biały 3046: 0&1
+301&443&3&Color: color: 0&czarny 5549: 0&1
+302&445&1&Color: color: 0&Wybierz kolor: 0&0
+303&445&2&Color: color: 0&biały 5216: 0&1
+304&445&3&Color: color: 0&grafit 5218: 0&4
+305&452&1&Color: color: 0&Wybierz kolor: 0&0
+306&452&2&Color: color: 0&biała, nogi miedziane: 0&6
+307&452&3&Color: color: 0&biały: 0&8
+308&452&4&Color: color: 0&czarny: 0&2
+309&452&5&Color: color: 0&szary: 0&8
+310&455&1&Color: color: 0&Wybierz kolor: 0&0
+311&455&2&Color: color: 0&biały 95539: 0&7
+312&455&3&Color: color: 0&czarny 95541: 0&3
+313&456&1&Color: color: 0&Wybierz kolor: 0&0
+314&456&2&Color: color: 0&biały: 0&10
+315&456&3&Color: color: 0&czarny: 0&6
+316&456&4&Color: color: 0&szary: 0&1
+317&464&1&Color: color: 0&Wybierz kolor: 0&0
+318&464&2&Color: color: 0&czarny 2899: 0&5
+319&464&3&Color: color: 0&szary 2897- wyprzedany: 0&4
+320&467&1&Color: color: 0&Wybierz kolor: 0&0
+321&467&2&Color: color: 0&ecru 8981: 0&8
+322&467&3&Color: color: 0&szary 9300: 0&2
+323&468&1&Color: color: 0&Wybierz kolor: 0&0
+324&468&2&Color: color: 0&Biały 9074: 0&2
+325&468&3&Color: color: 0&Szary 9072: 0&9
+326&472&1&Color: color: 0&Wybierz kolor: 0&0
+327&472&2&Color: color: 0&amber: 0&10
+328&472&3&Color: color: 0&biały: 0&4
+329&472&4&Color: color: 0&czarny  +50 zł: 0&10
+330&472&5&Color: color: 0&oliwkowy  +50 zł: 0&5
+331&482&1&Color: color: 0&Wybierz kolor: 0&0
+332&482&2&Color: color: 0&Biały 6492: 0&3
+333&482&3&Color: color: 0&Czarny 6505: 0&7
+334&482&4&Color: color: 0&Grafit 6498: 0&1
+335&485&1&Color: color: 0&Wybierz kolor: 0&0
+336&485&2&Color: color: 0&biały: 0&5
+337&485&3&Color: color: 0&czarny: 0&8
+338&490&1&Color: color: 0&Wybierz kolor: 0&0
+339&490&2&Color: color: 0&biały MLP5469: 0&3
+340&490&3&Color: color: 0&czarny MLP5474: 0&10
+341&495&1&Color: color: 0&Wybierz kolor: 0&0
+342&495&2&Color: color: 0&biały MLP6234: 0&3
+343&495&3&Color: color: 0&czarny MLP6238: 0&4
+344&496&1&Color: color: 0&Wybierz kolor: 0&0
+345&496&2&Color: color: 0&biały MLP6226: 0&3
+346&496&3&Color: color: 0&czarny MLP6230: 0&5
+347&497&1&Color: color: 0&Wybierz kolor: 0&0
+348&497&2&Color: color: 0&biały MLP908: 0&9
+349&497&3&Color: color: 0&czarny MLP1340: 0&8
+350&498&1&Color: color: 0&Wybierz kolor: 0&0
+351&498&2&Color: color: 0&biały MLP9475: 0&2
+352&498&3&Color: color: 0&czarny MLP9482: 0&10
+353&500&1&Color: color: 0&Wybierz kolor: 0&0
+354&500&2&Color: color: 0&biały MLP993: 0&9
+355&500&3&Color: color: 0&czarny MLP998: 0&2
+356&503&1&Color: color: 0&Wybierz kolor: 0&0
+357&503&2&Color: color: 0&biały MLP5406: 0&6
+358&503&3&Color: color: 0&czarny MLP5401: 0&8
+359&504&1&Color: color: 0&Wybierz kolor: 0&0
+360&504&2&Color: color: 0&biały MLP6274: 0&9
+361&504&3&Color: color: 0&czarny MLP6278: 0&4
+362&505&1&Color: color: 0&Wybierz kolor: 0&0
+363&505&2&Color: color: 0&biały MLP5407: 0&6
+364&505&3&Color: color: 0&czarny MLP5402: 0&10
+365&506&1&Color: color: 0&Wybierz kolor: 0&0
+366&506&2&Color: color: 0&biały MLP6282: 0&8
+367&506&3&Color: color: 0&czarny MLP6286: 0&9
+368&518&1&Color: color: 0&Wybierz kolor: 0&0
+369&518&2&Color: color: 0&biały SL.0496: 0&7
+370&518&3&Color: color: 0&czarny SL.0500: 0&5
+371&519&1&Color: color: 0&Wybierz kolor: 0&0
+372&519&2&Color: color: 0&biały SL.0497: 0&7
+373&519&3&Color: color: 0&czarny SL.0501: 0&4
+374&520&1&Color: color: 0&Wybierz kolor: 0&0
+375&520&2&Color: color: 0&5844 srebrny: 0&2
+376&520&3&Color: color: 0&6017 biały: 0&3
+377&520&4&Color: color: 0&6022 czarny: 0&1
+378&520&5&Color: color: 0&6137 grafitowy: 0&2
+379&521&1&Color: color: 0&Wybierz kolor: 0&0
+380&521&2&Color: color: 0&biały MLP899: 0&7
+381&521&3&Color: color: 0&czarny MLP911: 0&7
+382&524&1&Color: color: 0&Wybierz kolor: 0&0
+383&524&2&Color: color: 0&biały 0464: 0&7
+384&524&3&Color: color: 0&czarny 0460: 0&10
+385&524&4&Color: color: 0&szary 0462: 0&10
+386&525&1&Color: color: 0&Wybierz kolor: 0&0
+387&525&2&Color: color: 0&biały SL0442: 0&1
+388&525&3&Color: color: 0&czarny SL0448: 0&10
+389&526&1&Color: color: 0&Wybierz kolor: 0&0
+390&526&2&Color: color: 0&biały MLP8651: 0&4
+391&526&3&Color: color: 0&czarny MLP8658: 0&10
+392&527&1&Color: color: 0&Wybierz kolor: 0&0
+393&527&2&Color: color: 0&biały MLP8652: 0&7
+394&527&3&Color: color: 0&czarny MLP8659: 0&3
+395&528&1&Color: color: 0&Wybierz kolor: 0&0
+396&528&2&Color: color: 0&biały 0089: 0&6
+397&528&3&Color: color: 0&czarny 0093: 0&3
+398&528&4&Color: color: 0&szary 0451: 0&2
+399&529&1&Color: color: 0&Wybierz kolor: 0&0
+400&529&2&Color: color: 0&biały 0333: 0&10
+401&529&3&Color: color: 0&czarny 0334: 0&4
+402&529&4&Color: color: 0&szary 0454: 0&9
+403&531&1&Color: color: 0&Wybierz kolor: 0&0
+404&531&2&Color: color: 0&biały 0463: 0&4
+405&531&3&Color: color: 0&czarny 0459: 0&1
+406&531&4&Color: color: 0&szary 0461: 0&6
+407&532&1&Color: color: 0&Wybierz kolor: 0&0
+408&532&2&Color: color: 0&biały SL0441: 0&1
+409&532&3&Color: color: 0&czarny SL0447: 0&6
+410&533&1&Color: color: 0&Wybierz kolor: 0&0
+411&533&2&Color: color: 0&biały 00331: 0&6
+412&533&3&Color: color: 0&czarny 0332: 0&10
+413&533&4&Color: color: 0&szary 0453: 0&3
+414&534&1&Color: color: 0&Wybierz kolor: 0&0
+415&534&2&Color: color: 0&biały 0096: 0&6
+416&534&3&Color: color: 0&czarny 0100: 0&1
+417&534&4&Color: color: 0&szary 0456: 0&5
+418&535&1&Color: color: 0&Wybierz kolor: 0&0
+419&535&2&Color: color: 0&biały 0088: 0&10
+420&535&3&Color: color: 0&czarny 0092: 0&9
+421&535&4&Color: color: 0&szary 0450: 0&8
+422&536&1&Color: color: 0&Wybierz kolor: 0&0
+423&536&2&Color: color: 0&biały SL0439: 0&5
+424&536&3&Color: color: 0&czarny SL0445: 0&10
+425&537&1&Color: color: 0&Wybierz kolor: 0&0
+426&537&2&Color: color: 0&biały SL.0098: 0&5
+427&537&3&Color: color: 0&czarny SL.0102: 0&8
+428&537&4&Color: color: 0&szary SL.0458: 0&10
+429&538&1&Color: color: 0&Wybierz kolor: 0&0
+430&538&2&Color: color: 0&biały SL.0090: 0&5
+431&538&3&Color: color: 0&czarny SL.0094: 0&5
+432&538&4&Color: color: 0&szary SL.0452: 0&10
+433&552&1&Color: color: 0&Wybierz kolor: 0&0
+434&552&2&Color: color: 0&Biały 6607: 0&7
+435&552&3&Color: color: 0&Czarny 6611: 0&1
+436&552&4&Color: color: 0&Grafit 6610: 0&2
+437&552&5&Color: color: 0&Srebrny 6608: 0&10
+438&555&1&Color: color: 0&Wybierz kolor: 0&0
+439&555&2&Color: color: 0&biały  -30 zł: 0&1
+440&555&3&Color: color: 0&nikiel matt: 0&3
+441&556&1&Color: color: 0&Wybierz kolor: 0&0
+442&556&2&Color: color: 0&biały  -20 zł: 0&2
+443&556&3&Color: color: 0&chrom: 0&4
+444&556&4&Color: color: 0&nikiel matt: 0&8
+445&557&1&Color: color: 0&Wybierz kolor: 0&0
+446&557&2&Color: color: 0&biały 9603: 0&4
+447&557&3&Color: color: 0&grafitowy 9598: 0&2
+448&558&1&Color: color: 0&Wybierz kolor: 0&0
+449&558&2&Color: color: 0&biały 9602: 0&6
+450&558&3&Color: color: 0&grafitowy 9597: 0&10
+451&559&1&Color: color: 0&Wybierz kolor: 0&0
+452&559&2&Color: color: 0&biały 9601: 0&7
+453&559&3&Color: color: 0&grafitowy 9596: 0&3
+454&560&1&Color: color: 0&Wybierz kolor: 0&0
+455&560&2&Color: color: 0&biały 9604: 0&10
+456&560&3&Color: color: 0&grafitowy 9600: 0&3
+457&561&1&Color: color: 0&Wybierz kolor: 0&0
+458&561&2&Color: color: 0&biały 8268: 0&9
+459&561&3&Color: color: 0&czarny 8263: 0&10
+460&562&1&Color: color: 0&Wybierz kolor: 0&0
+461&562&2&Color: color: 0&biały 8270: 0&1
+462&562&3&Color: color: 0&czarny 8264: 0&6
+463&563&1&Color: color: 0&Wybierz kolor: 0&0
+464&563&2&Color: color: 0&biały 8272: 0&7
+465&563&3&Color: color: 0&czarny 8266: 0&10
+466&564&1&Color: color: 0&Wybierz kolor: 0&0
+467&564&2&Color: color: 0&biały 8267: 0&3
+468&564&3&Color: color: 0&czarny 8262: 0&6
+469&567&1&Color: color: 0&Wybierz kolor: 0&0
+470&567&2&Color: color: 0&biały ML4741: 0&7
+471&567&3&Color: color: 0&czarny ML4742: 0&10
+472&568&1&Color: color: 0&Wybierz kolor: 0&0
+473&568&2&Color: color: 0&biały AZ3125: 0&7
+474&568&3&Color: color: 0&czarny AZ3126: 0&7
+475&568&4&Color: color: 0&szampański AZ3127  +20 zł: 0&3
+476&569&1&Color: color: 0&Wybierz kolor: 0&0
+477&569&2&Color: color: 0&biały 7791: 0&7
+478&569&3&Color: color: 0&czarny 7790: 0&6
+479&570&1&Color: color: 0&Wybierz kolor: 0&0
+480&570&2&Color: color: 0&biały: 0&3
+481&570&3&Color: color: 0&chrom  +6 zł: 0&3
+482&570&4&Color: color: 0&czarny: 0&10
+483&572&1&Color: color: 0&Wybierz kolor: 0&0
+484&572&2&Color: color: 0&biały MLP9007: 0&8
+485&572&3&Color: color: 0&czarny MLP9013: 0&7
+486&575&1&Color: color: 0&Wybierz kolor: 0&0
+487&575&2&Color: color: 0&biały MLP6225: 0&6
+488&575&3&Color: color: 0&czarny MLP6229: 0&10
+489&576&1&Color: color: 0&Wybierz kolor: 0&0
+490&576&2&Color: color: 0&biały MLP6233: 0&1
+491&576&3&Color: color: 0&czarny MLP6237: 0&9
+492&579&1&Color: color: 0&Wybierz kolor: 0&0
+493&579&2&Color: color: 0&biały MLP4250: 0&4
+494&579&3&Color: color: 0&czarny MLP4258: 0&2
+495&580&1&Color: color: 0&Wybierz kolor: 0&0
+496&580&2&Color: color: 0&biały ML6474: 0&5
+497&580&3&Color: color: 0&czarny ML6471: 0&8
+498&581&1&Color: color: 0&Wybierz kolor: 0&0
+499&581&2&Color: color: 0&biały MLP898: 0&9
+500&581&3&Color: color: 0&czarny MLP910: 0&9
+501&582&1&Color: color: 0&Wybierz kolor: 0&0
+502&582&2&Color: color: 0&biały: 0&9
+503&582&3&Color: color: 0&czarny: 0&10
+504&584&1&Color: color: 0&Wybierz kolor: 0&0
+505&584&2&Color: color: 0&biały: 0&6
+506&584&3&Color: color: 0&czarny: 0&4
+507&585&1&Color: color: 0&Wybierz kolor: 0&0
+508&585&2&Color: color: 0&biały: 0&2
+509&585&3&Color: color: 0&czarny: 0&4
+510&586&1&Color: color: 0&Wybierz kolor: 0&0
+511&586&2&Color: color: 0&biały: 0&9
+512&586&3&Color: color: 0&czarny: 0&6
+513&587&1&Color: color: 0&Wybierz kolor: 0&0
+514&587&2&Color: color: 0&biały: 0&4
+515&587&3&Color: color: 0&czarny: 0&6
+516&590&1&Color: color: 0&Wybierz kolor: 0&0
+517&590&2&Color: color: 0&biały 0095: 0&6
+518&590&3&Color: color: 0&czarny 0099: 0&9
+519&590&4&Color: color: 0&szary 0455: 0&4
+520&591&1&Color: color: 0&Wybierz kolor: 0&0
+521&591&2&Color: color: 0&biały 0437: 0&10
+522&591&3&Color: color: 0&czarny 0443: 0&7
+523&592&1&Color: color: 0&Wybierz kolor: 0&0
+524&592&2&Color: color: 0&biały 0087: 0&8
+525&592&3&Color: color: 0&czarny 0091: 0&10
+526&592&4&Color: color: 0&szary 0449: 0&10
+527&593&1&Color: color: 0&Wybierz kolor: 0&0
+528&593&2&Color: color: 0&biały 0087: 0&1
+529&593&3&Color: color: 0&czarny 0091: 0&1
+530&593&4&Color: color: 0&szary 0449: 0&4
+531&594&1&Color: color: 0&Wybierz kolor: 0&0
+532&594&2&Color: color: 0&biały MLP6273: 0&7
+533&594&3&Color: color: 0&czarny MLP6277: 0&2
+534&595&1&Color: color: 0&Wybierz kolor: 0&0
+535&595&2&Color: color: 0&biały MLP5405: 0&4
+536&595&3&Color: color: 0&czarny MLP5400: 0&7
+537&596&1&Color: color: 0&Wybierz kolor: 0&0
+538&596&2&Color: color: 0&biały MLP6281: 0&9
+539&596&3&Color: color: 0&czarny MLP6285: 0&8
+540&597&1&Color: color: 0&Wybierz kolor: 0&0
+541&597&2&Color: color: 0&biały: 0&8
+542&597&3&Color: color: 0&czarny: 0&7
+543&605&1&Color: color: 0&Wybierz kolor: 0&0
+544&605&2&Color: color: 0&biały: 0&9
+545&605&3&Color: color: 0&czarny: 0&8
+546&606&1&Color: color: 0&Wybierz kolor: 0&0
+547&606&2&Color: color: 0&biały: 0&7
+548&606&3&Color: color: 0&czarny: 0&1
+549&607&1&Color: color: 0&Wybierz kolor: 0&0
+550&607&2&Color: color: 0&biały: 0&6
+551&607&3&Color: color: 0&czarny: 0&6
+552&608&1&Color: color: 0&Wybierz kolor: 0&0
+553&608&2&Color: color: 0&biały: 0&10
+554&608&3&Color: color: 0&czarny: 0&5
+555&615&1&Color: color: 0&Wybierz kolor: 0&0
+556&615&2&Color: color: 0&biały 7938: 0&1
+557&615&3&Color: color: 0&czarny 7943: 0&5
+558&616&1&Color: color: 0&Wybierz kolor: 0&0
+559&616&2&Color: color: 0&biały MLP4255: 0&1
+560&616&3&Color: color: 0&czarny MLP4263: 0&2
+561&617&1&Color: color: 0&Wybierz kolor: 0&0
+562&617&2&Color: color: 0&biały MLP990: 0&7
+563&617&3&Color: color: 0&czarny MLP995: 0&9
+564&618&1&Color: color: 0&Wybierz kolor: 0&0
+565&618&2&Color: color: 0&biały MLP9680: 0&4
+566&618&3&Color: color: 0&czarny MLP9685: 0&2
+567&621&1&Color: color: 0&Wybierz kolor: 0&0
+568&621&2&Color: color: 0&biały: 0&2
+569&621&3&Color: color: 0&czarny: 0&10
+570&622&1&Color: color: 0&Wybierz kolor: 0&0
+571&622&2&Color: color: 0&biały MLP4858: 0&7
+572&622&3&Color: color: 0&czarny MLP4852: 0&10
+573&623&1&Color: color: 0&Wybierz kolor: 0&0
+574&623&2&Color: color: 0&biały MLP4859: 0&9
+575&623&3&Color: color: 0&czarny MLP4853: 0&1
+576&624&1&Color: color: 0&Wybierz kolor: 0&0
+577&624&2&Color: color: 0&biały MLP5751: 0&3
+578&624&3&Color: color: 0&czarny MLP4851: 0&4
+579&625&1&Color: color: 0&Wybierz kolor: 0&0
+580&625&2&Color: color: 0&biały AZ4318: 0&6
+581&625&3&Color: color: 0&czarny AZ4317: 0&10
+582&626&1&Color: color: 0&Wybierz kolor: 0&0
+583&626&2&Color: color: 0&biały AZ4320: 0&5
+584&626&3&Color: color: 0&czarny AZ4319: 0&5
+585&627&1&Color: color: 0&Wybierz kolor: 0&0
+586&627&2&Color: color: 0&biały AZ4259: 0&5
+587&627&3&Color: color: 0&czarno złoty AZ4261: 0&6
+588&627&4&Color: color: 0&czarny AZ4260: 0&3
+589&637&1&Color: color: 0&Wybierz kolor: 0&0
+590&637&2&Color: color: 0&biały: 0&10
+591&637&3&Color: color: 0&czarny: 0&7
+592&642&1&Color: color: 0&Wybierz kolor: 0&0
+593&642&2&Color: color: 0&biały MLP959: 0&8
+594&642&3&Color: color: 0&różowy MLP962: 0&2
+595&643&1&Color: color: 0&Wybierz kolor: 0&0
+596&643&2&Color: color: 0&biały MLP9949: 0&1
+597&643&3&Color: color: 0&ciemny róż MLP9955: 0&1
+598&643&4&Color: color: 0&różowy MLP9952: 0&7
+599&643&5&Color: color: 0&szary MLP9821: 0&1
+600&646&1&Color: color: 0&Wybierz kolor: 0&0
+601&646&2&Color: color: 0&czerwony 4056: 0&3
+602&646&3&Color: color: 0&niebieski 4058: 0&9
+603&646&4&Color: color: 0&żółty 4057: 0&10
+604&651&1&Color: color: 0&Wybierz kolor: 0&0
+605&651&2&Color: color: 0&biały MLP4966: 0&7
+606&651&3&Color: color: 0&różowy MLP4971: 0&7
+607&653&1&Color: color: 0&Wybierz kolor: 0&0
+608&653&2&Color: color: 0&biały MLP4976: 0&5
+609&653&3&Color: color: 0&różowy MLP4215: 0&4
+610&654&1&Color: color: 0&Wybierz kolor: 0&0
+611&654&2&Color: color: 0&biały MLP4776: 0&8
+612&654&3&Color: color: 0&czarny MLP4782: 0&3
+613&655&1&Color: color: 0&Wybierz kolor: 0&0
+614&655&2&Color: color: 0&biały MLP1035: 0&8
+615&655&3&Color: color: 0&różowy MLP1038: 0&7
+616&658&1&Color: color: 0&Wybierz kolor: 0&0
+617&658&2&Color: color: 0&biały MLP4921: 0&9
+618&658&3&Color: color: 0&różowy MLP4926: 0&4
+619&658&4&Color: color: 0&szary  MLP4931: 0&1
+620&660&1&Color: color: 0&Wybierz kolor: 0&0
+621&660&2&Color: color: 0&biały MLP1065: 0&2
+622&660&3&Color: color: 0&różowy MLP1068: 0&4
+623&661&1&Color: color: 0&Wybierz kolor: 0&0
+624&661&2&Color: color: 0&biały MLP5350: 0&4
+625&661&3&Color: color: 0&ciemny róż MLP5347: 0&2
+626&661&4&Color: color: 0&różowy MLP5353: 0&2
+627&666&1&Color: color: 0&Wybierz kolor: 0&0
+628&666&2&Color: color: 0&biały MLP1047: 0&4
+629&666&3&Color: color: 0&różowy MLP1050: 0&4
+630&700&1&Color: color: 0&Wybierz kolor: 0&0
+631&700&2&Color: color: 0&biała: 0&8
+632&700&3&Color: color: 0&czarny: 0&1
+633&701&1&Color: color: 0&Wybierz kolor: 0&0
+634&701&2&Color: color: 0&czarna: 0&7
+635&701&3&Color: color: 0&niebieska: 0&3
+636&701&4&Color: color: 0&różowa: 0&7
+637&702&1&Color: color: 0&Wybierz kolor: 0&0
+638&702&2&Color: color: 0&biała: 0&7
+639&702&3&Color: color: 0&czarna: 0&1
+640&702&4&Color: color: 0&srebrna: 0&1
+641&703&1&Color: color: 0&Wybierz kolor: 0&0
+642&703&2&Color: color: 0&biała: 0&7
+643&703&3&Color: color: 0&różowa: 0&9
+644&703&4&Color: color: 0&żółta: 0&4
+645&704&1&Color: color: 0&Wybierz kolor: 0&0
+646&704&2&Color: color: 0&biała: 0&4
+647&704&3&Color: color: 0&niebieski: 0&7
+648&704&4&Color: color: 0&różowa: 0&3
+649&705&1&Color: color: 0&Wybierz kolor: 0&0
+650&705&2&Color: color: 0&biała: 0&6
+651&705&3&Color: color: 0&różowa: 0&10
+652&705&4&Color: color: 0&żółta: 0&5
+653&710&1&Color: color: 0&Wybierz kolor: 0&0
+654&710&2&Color: color: 0&biały MLP4967: 0&3
+655&710&3&Color: color: 0&różowy MLP4972: 0&6
+656&711&1&Color: color: 0&Wybierz kolor: 0&0
+657&711&2&Color: color: 0&biały MLP4968: 0&7
+658&711&3&Color: color: 0&różowy MLP4973: 0&6
+659&712&1&Color: color: 0&Wybierz kolor: 0&0
+660&712&2&Color: color: 0&biały MLP4970: 0&5
+661&712&3&Color: color: 0&różowy MLP4975: 0&5
+662&713&1&Color: color: 0&Wybierz kolor: 0&0
+663&713&2&Color: color: 0&biały 1533: 0&8
+664&713&3&Color: color: 0&niebieski 1534: 0&8
+665&713&4&Color: color: 0&różowy 1535: 0&2
+666&714&1&Color: color: 0&Wybierz kolor: 0&0
+667&714&2&Color: color: 0&biały 4228: 0&8
+668&714&3&Color: color: 0&niebieski 4230: 0&9
+669&714&4&Color: color: 0&różowy 4229: 0&1
+670&720&1&Color: color: 0&Wybierz kolor: 0&0
+671&720&2&Color: color: 0&biały MLP4924: 0&8
+672&720&3&Color: color: 0&różowy MLP4929: 0&4
+673&720&4&Color: color: 0&szary MLP4934: 0&5
+674&721&1&Color: color: 0&Wybierz kolor: 0&0
+675&721&2&Color: color: 0&Biały 9324: 0&1
+676&721&3&Color: color: 0&Czarny 9325: 0&1
+677&724&1&Color: color: 0&Wybierz kolor: 0&0
+678&724&2&Color: color: 0&Biały 9020: 0&8
+679&724&3&Color: color: 0&Czarny 9018: 0&1
+680&725&1&Color: color: 0&Wybierz kolor: 0&0
+681&725&2&Color: color: 0&Biały 9321: 0&9
+682&725&3&Color: color: 0&Czarny 9322: 0&6
+683&726&1&Color: color: 0&Wybierz kolor oraz barwę: 0&2
+684&726&2&Color: color: 0&Biały 3000K (kod 9000): 0&6
+685&726&3&Color: color: 0&Biały 4000K (kod 9002): 0&6
+686&726&4&Color: color: 0&Czarny 3000K (kod 9001): 0&5
+687&726&5&Color: color: 0&Czarny 4000K (kod 9003): 0&8
+688&727&1&Color: color: 0&Wybierz kolor oraz barwę: 0&10
+689&727&2&Color: color: 0&Biały 3000K (kod 9004): 0&4
+690&727&3&Color: color: 0&Biały 4000K (kod 9006): 0&2
+691&727&4&Color: color: 0&Czarny 3000K (kod 9005): 0&8
+692&727&5&Color: color: 0&Czarny 4000K (kod 9007): 0&6
+693&728&1&Color: color: 0&Wybierz kolor oraz barwę: 0&2
+694&728&2&Color: color: 0&Biały 3000K (kod 8995): 0&5
+695&728&3&Color: color: 0&Biały 4000K (kod 8997): 0&7
+696&728&4&Color: color: 0&Czarny 3000K (kod 8996): 0&4
+697&728&5&Color: color: 0&Czarny 4000K (kod 8998): 0&8
+698&729&1&Color: color: 0&Wybierz kolor: 0&0
+699&729&2&Color: color: 0&Biały 9423: 0&2
+700&729&3&Color: color: 0&Czarny 9424: 0&3
+701&730&1&Color: color: 0&Wybierz kolor oraz barwę: 0&9
+702&730&2&Color: color: 0&biały barwa 3000K ML3914: 0&4
+703&730&3&Color: color: 0&biały barwa 4000K ML3915: 0&6
+704&730&4&Color: color: 0&czarny barwa 3000K ML3912: 0&6
+705&730&5&Color: color: 0&czarny barwa 4000K ML3913: 0&2
+706&731&1&Color: color: 0&Wybierz kolor oraz barwę: 0&4
+707&731&2&Color: color: 0&biały barwa 3000K ML3910: 0&7
+708&731&3&Color: color: 0&biały barwa 4000K ML3911: 0&9
+709&731&4&Color: color: 0&czarny barwa 3000K ML3908: 0&4
+710&731&5&Color: color: 0&czarny barwa 4000K ML3909: 0&3
+711&732&1&Color: color: 0&Wybierz kolor: 0&0
+712&732&2&Color: color: 0&Biały ML5701: 0&5
+713&732&3&Color: color: 0&Czarny ML5702: 0&2
+714&733&1&Color: color: 0&Wybierz kolor: 0&0
+715&733&2&Color: color: 0&Biały ML5711: 0&5
+716&733&3&Color: color: 0&Czarny ML5712: 0&1
+717&734&1&Color: color: 0&Wybierz kolor: 0&0
+718&734&2&Color: color: 0&Biały 8822: 0&8
+719&734&3&Color: color: 0&Czarny 8823: 0&9
+720&735&1&Color: color: 0&Wybierz kolor: 0&0
+721&735&2&Color: color: 0&Biały 9331: 0&6
+722&735&3&Color: color: 0&Czarny 9332: 0&9
+723&736&1&Color: color: 0&Wybierz kolor: 0&0
+724&736&2&Color: color: 0&Biały 9337: 0&8
+725&736&3&Color: color: 0&Czarny 9338: 0&3
+726&737&1&Color: color: 0&Wybierz kolor: 0&0
+727&737&2&Color: color: 0&Biały 9245: 0&7
+728&737&3&Color: color: 0&Czarny 9244: 0&4
+729&739&1&Color: color: 0&Wybierz kolor: 0&0
+730&739&2&Color: color: 0&biały 9012: 0&7
+731&739&3&Color: color: 0&czarny 9013: 0&3
+732&740&1&Color: color: 0&Wybierz kolor: 0&0
+733&740&2&Color: color: 0&biały 9014: 0&7
+734&740&3&Color: color: 0&czarny 9015: 0&2
+735&744&1&Color: color: 0&Wybierz kolor: 0&0
+736&744&2&Color: color: 0&biały: 0&10
+737&744&3&Color: color: 0&czarny: 0&1
+738&745&1&Color: color: 0&Wybierz kolor: 0&0
+739&745&2&Color: color: 0&biały: 0&10
+740&745&3&Color: color: 0&czarny: 0&5
+741&746&1&Color: color: 0&Wybierz kolor: 0&0
+742&746&2&Color: color: 0&biały 9450: 0&4
+743&746&3&Color: color: 0&czarny 9448: 0&4
+744&747&1&Color: color: 0&Wybierz kolor: 0&0
+745&747&2&Color: color: 0&biały 9451: 0&8
+746&747&3&Color: color: 0&czarny 9452: 0&5
+747&748&1&Color: color: 0&Wybierz kolor: 0&0
+748&748&2&Color: color: 0&biały ML3917: 0&3
+749&748&3&Color: color: 0&czarny ML3916: 0&3
+750&749&1&Color: color: 0&Wybierz kolor: 0&0
+751&749&2&Color: color: 0&biały 9462: 0&9
+752&749&3&Color: color: 0&czarny 9463: 0&5
+753&750&1&Color: color: 0&Wybierz kolor: 0&0
+754&750&2&Color: color: 0&biały 8972: 0&2
+755&750&3&Color: color: 0&czarny 8973: 0&10
+756&751&1&Color: color: 0&Wybierz kolor: 0&0
+757&751&2&Color: color: 0&biały 9237: 0&8
+758&751&3&Color: color: 0&czarny 9238: 0&2
+759&752&1&Color: color: 0&Wybierz kolor: 0&0
+760&752&2&Color: color: 0&biały 9461: 0&2
+761&752&3&Color: color: 0&czarny 9460: 0&1
+762&753&1&Color: color: 0&Wybierz kolor: 0&0
+763&753&2&Color: color: 0&biały 9457: 0&5
+764&753&3&Color: color: 0&czarny 9458: 0&1
+765&754&1&Color: color: 0&Wybierz kolor: 0&0
+766&754&2&Color: color: 0&biały 8974: 0&2
+767&754&3&Color: color: 0&czarny 8975: 0&5
+768&755&1&Color: color: 0&Wybierz kolor: 0&0
+769&755&2&Color: color: 0&biały 9456: 0&1
+770&755&3&Color: color: 0&czarny 9455: 0&2
+771&756&1&Color: color: 0&Wybierz kolor: 0&0
+772&756&2&Color: color: 0&biały 9454: 0&8
+773&756&3&Color: color: 0&czarny 9453: 0&10
+774&757&1&Color: color: 0&Wybierz kolor: 0&0
+775&757&2&Color: color: 0&biały 9187: 0&8
+776&757&3&Color: color: 0&czarny 9186: 0&5
+777&758&1&Color: color: 0&Wybierz kolor: 0&0
+778&758&2&Color: color: 0&biały 9190: 0&2
+779&758&3&Color: color: 0&czarny 9188: 0&3
+780&759&1&Color: color: 0&Wybierz kolor: 0&0
+781&759&2&Color: color: 0&biały 8382: 0&5
+782&759&3&Color: color: 0&czarny 8383: 0&6
+783&760&1&Color: color: 0&Wybierz kolor: 0&0
+784&760&2&Color: color: 0&biały 8970: 0&3
+785&760&3&Color: color: 0&czarny 8971: 0&4
+786&761&1&Color: color: 0&Wybierz kolor: 0&0
+787&761&2&Color: color: 0&biały 8967: 0&7
+788&761&3&Color: color: 0&czarny 8968: 0&5
+789&762&1&Color: color: 0&Wybierz kolor: 0&0
+790&762&2&Color: color: 0&biały 8834: 0&9
+791&762&3&Color: color: 0&czarny 8835: 0&1
+792&763&1&Color: color: 0&Wybierz kolor: 0&0
+793&763&2&Color: color: 0&biały 8836: 0&9
+794&763&3&Color: color: 0&czarny 8837: 0&7
+795&764&1&Color: color: 0&Wybierz kolor: 0&0
+796&764&2&Color: color: 0&biały ML3918: 0&3
+797&764&3&Color: color: 0&czarny ML3919: 0&3
+798&765&1&Color: color: 0&Wybierz kolor: 0&0
+799&765&2&Color: color: 0&biały ML3920: 0&2
+800&765&3&Color: color: 0&czarny ML3921: 0&6
+801&766&1&Color: color: 0&Wybierz kolor: 0&0
+802&766&2&Color: color: 0&biały ML3922: 0&4
+803&766&3&Color: color: 0&czarny ML3923: 0&6
+804&776&1&Color: color: 0&Wybierz kolor: 0&0
+805&776&2&Color: color: 0&biały: 0&6
+806&776&3&Color: color: 0&ciemny szary: 0&4
+807&777&1&Color: color: 0&Wybierz kolor: 0&0
+808&777&2&Color: color: 0&biały AZ2179: 0&3
+809&777&3&Color: color: 0&ciemny szary AZ2180: 0&2
+810&778&1&Color: color: 0&Wybierz kolor: 0&0
+811&778&2&Color: color: 0&biały: 0&10
+812&778&3&Color: color: 0&ciemny szary: 0&1
+813&778&4&Color: color: 0&jasny szary: 0&9
+814&788&1&Color: color: 0&Wybierz kolor: 0&0
+815&788&2&Color: color: 0&czarny, dymiony: 0&6
+816&788&3&Color: color: 0&czarny, opal: 0&4
+817&788&4&Color: color: 0&czarny, pryzmat: 0&5
+818&789&1&Color: color: 0&Wybierz kolor: 0&0
+819&789&2&Color: color: 0&czarny, dymiony: 0&9
+820&789&3&Color: color: 0&czarny, opal: 0&7
+821&789&4&Color: color: 0&czarny, pryzmat: 0&9
+822&797&1&Color: color: 0&Wybierz kolor: 0&0
+823&797&2&Color: color: 0&czarny K-8130: 0&8
+824&797&3&Color: color: 0&czarny złoty K-8125: 0&10
+825&805&1&Color: color: 0&Wybierz kolor: 0&0
+826&805&2&Color: color: 0&biały 32004-1: 0&7
+827&805&3&Color: color: 0&czarny 32005-1: 0&7
+828&806&1&Color: color: 0&Wybierz kolor: 0&0
+829&806&2&Color: color: 0&biały 32004-2: 0&4
+830&806&3&Color: color: 0&czarny 32005-2: 0&2
+831&816&1&Color: color: 0&Wybierz kolor: 0&0
+832&816&2&Color: color: 0&biały EKO3490: 0&4
+833&816&3&Color: color: 0&czarny EKO3537: 0&3
+834&821&1&Color: color: 0&Wybierz kolor: 0&0
+835&821&2&Color: color: 0&czarny: 0&5
+836&821&3&Color: color: 0&czarny złoty : 0&2
+837&822&1&Color: color: 0&Wybierz kolor: 0&0
+838&822&2&Color: color: 0&czarny: 0&8
+839&822&3&Color: color: 0&czarny złoty : 0&1
+840&833&1&Color: color: 0&Wybierz kolor: 0&0
+841&833&2&Color: color: 0&biały 8836: 0&1
+842&833&3&Color: color: 0&czarny 8832: 0&4
+843&834&1&Color: color: 0&Wybierz kolor: 0&0
+844&834&2&Color: color: 0&biały 8837: 0&1
+845&834&3&Color: color: 0&czarny 8833: 0&10
+846&835&1&Color: color: 0&Wybierz kolor: 0&0
+847&835&2&Color: color: 0&biały 8838: 0&1
+848&835&3&Color: color: 0&czarny 8834: 0&8
+849&836&1&Color: color: 0&Wybierz kolor: 0&0
+850&836&2&Color: color: 0&biały 8839: 0&7
+851&836&3&Color: color: 0&czarny 8835: 0&10
+852&838&1&Color: color: 0&Wybierz kolor: 0&0
+853&838&2&Color: color: 0&czarny 7837: 0&8
+854&838&3&Color: color: 0&złoto antyczne 8370: 0&7
+855&839&1&Color: color: 0&Wybierz kolor: 0&0
+856&839&2&Color: color: 0&czarny 8341: 0&3
+857&839&3&Color: color: 0&złoto antyczne 8371: 0&3
+858&840&1&Color: color: 0&Wybierz kolor: 0&0
+859&840&2&Color: color: 0&czarny 8342: 0&4
+860&840&3&Color: color: 0&złoto antyczne 8372: 0&3
+861&842&1&Color: color: 0&Wybierz kolor: 0&0
+862&842&2&Color: color: 0&antracyt 31996: 0&9
+863&842&3&Color: color: 0&biały 31991: 0&6
+864&844&1&Color: color: 0&Wybierz kolor: 0&0
+865&844&2&Color: color: 0&biały OWL-451-3-WH: 0&3
+866&844&3&Color: color: 0&czarny OWL-451-3-BL: 0&1
